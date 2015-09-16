@@ -2166,12 +2166,12 @@ img {
 .about__title {
   color: #fefefe;
   text-align: center;
-  width: 80%; }
+  width: 100%; }
 
 .title--jumbo {
   color: #fefefe;
   padding: 0 5%;
-  margin-top: 25%; }
+  margin-top: 10%; }
   .title--jumbo h4 {
     font-family: "Open Sans", sans-serif; }
   .title--jumbo h1 {
@@ -2181,7 +2181,7 @@ img {
     font-size: 1em; }
   @media (min-width: 700px) {
     .title--jumbo {
-      margin-top: 100px;
+      margin-top: 60px;
       text-align: center; }
       .title--jumbo h1 {
         font-size: 3.998em;
